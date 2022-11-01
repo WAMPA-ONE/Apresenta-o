@@ -53,6 +53,8 @@ section {
 
 #migracao {
     background-color:white;
+    min-height: 30vh;
+    padding-bottom:5px;
 }
 
 #sobre {
