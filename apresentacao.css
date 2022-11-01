@@ -107,6 +107,8 @@ section {
 }
 
 .imgprojeto {
+    position: absolute;
+    top: 20px;
     width: 15vw;
     height: 15vw;
     padding-left: 15px;
