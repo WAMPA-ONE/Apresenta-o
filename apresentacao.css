@@ -39,8 +39,8 @@ section {
     padding-bottom:5px;
 }
 
-#projetos {
-    background-color:white;
+#apresentacao {
+    background-color:#302f2f;
 }
 
 #formacao {
@@ -55,7 +55,7 @@ section {
     background-color:white;
 }
 
-.secao1 {
+.apresentacao {
     display: flex;
     height: 90vh;
     background-color:#302f2f;
