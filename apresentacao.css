@@ -44,7 +44,7 @@ section {
 }
 
 #formacao {
-    background-color:white;
+    background-color:#e5e6ea;
 }
 
 #sobre {
@@ -68,19 +68,19 @@ section {
     margin:auto;
     text-align:center;
 }
-.secao2 {
+.formacao {
     display: flex;
     height: 70vh;
     background-color:white;
     }
 
-.secao3 {
+.migracao {
     display: flex;
     height: 50vh;
     background-color:#e5e6ea;
 }
 
-.secao4 {
+.sobremim {
     display: flex;
     height: 80vh;
     background-color:#e5e6ea;
