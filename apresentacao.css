@@ -106,6 +106,7 @@ section {
 .video {
     width:30vw;
     height:30vw;
+    position: auto;
 }
 
 .imgprojeto {
