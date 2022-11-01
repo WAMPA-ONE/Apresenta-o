@@ -60,6 +60,10 @@ section {
     height: 90vh;
     background-color:#302f2f;
 }
+
+#migracao {
+    background-color:#302f2f;
+}
 .centralizar {
     margin:auto;
     text-align:center;
