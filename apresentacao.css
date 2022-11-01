@@ -43,8 +43,16 @@ section {
     background-color:green;
 }
 
+#resumo {
+    background-color:white;
+}
+
 #formacao {
     background-color:#e5e6ea;
+}
+
+#migracao {
+    background-color:white;
 }
 
 #sobre {
