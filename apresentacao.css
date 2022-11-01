@@ -58,7 +58,7 @@ section {
 .secao1 {
     display: flex;
     height: 90vh;
-    background-color:white;
+    background-color:#302f2f;
 }
 .centralizar {
     margin:auto;
